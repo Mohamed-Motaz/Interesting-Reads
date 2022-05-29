@@ -18,4 +18,11 @@ This is a repo that contains some of my favorite articles and books concerning s
 ## **Books**
 - ### **Currently Reading**
 - ### **To Read**
+   - Understanding Distributed Systems
+   - Building Microservices: Designing Fine-Grained Systems
+   - Designing Data-Intensive Applications
+   - SQL Fundamentals
+   - Grokking Algorithms
+
 - ### **Read**
+   - Head First Object-Oriented Analysis and Design
