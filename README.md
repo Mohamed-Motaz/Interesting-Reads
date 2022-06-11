@@ -23,6 +23,7 @@ This is a repo that contains some of my favorite articles and books concerning s
    - Building Microservices: Designing Fine-Grained Systems
    - Designing Data-Intensive Applications
    - SQL Fundamentals
+   - High Performance MySQL
    - Grokking Algorithms
 
 - ### **Read**
