@@ -20,7 +20,8 @@ This is a repo that contains some of my favorite articles and books concerning s
 
 ## **Books**
 - ### **Currently Reading**
-   - Little Book Of Semaphores  
+   - Little Book Of Semaphores
+   - Operating Systems: Three Easy Pieces  
 - ### **To Read**
    - Understanding Distributed Systems
    - Building Microservices: Designing Fine-Grained Systems
