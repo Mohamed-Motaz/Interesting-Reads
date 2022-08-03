@@ -21,7 +21,7 @@ This is a repo that contains some of my favorite articles and books concerning s
 ## **Books**
 - ### **Currently Reading**
    - Little Book Of Semaphores
-   - Operating Systems: Three Easy Pieces  
+   - T-SQL Fundamentals
 - ### **To Read**
    - Understanding Distributed Systems
    - Building Microservices: Designing Fine-Grained Systems
@@ -31,3 +31,5 @@ This is a repo that contains some of my favorite articles and books concerning s
 
 - ### **Read**
    - Head First Object-Oriented Analysis and Design
+   - Operating Systems: Three Easy Pieces  
+
