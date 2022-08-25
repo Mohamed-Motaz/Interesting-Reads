@@ -20,14 +20,15 @@ This is a repo that contains some of my favorite articles and books concerning s
 
 ## **Books**
 - ### **Currently Reading**
-   - Little Book Of Semaphores
+   - High Performance MySQL
    - T-SQL Fundamentals
+   
 - ### **To Read**
    - Understanding Distributed Systems
    - Building Microservices: Designing Fine-Grained Systems
    - Designing Data-Intensive Applications
-   - High Performance MySQL
    - Grokking Algorithms
+   - Little Book Of Semaphores
 
 - ### **Read**
    - Head First Object-Oriented Analysis and Design
