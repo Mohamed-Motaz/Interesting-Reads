@@ -20,8 +20,7 @@ This is a repo that contains some of my favorite articles and books concerning s
 
 ## **Books**
 - ### **Currently Reading**
-   - High Performance MySQL
-   - T-SQL Fundamentals
+   
    
 - ### **To Read**
    - Understanding Distributed Systems
@@ -29,8 +28,10 @@ This is a repo that contains some of my favorite articles and books concerning s
    - Designing Data-Intensive Applications
    - Grokking Algorithms
    - Little Book Of Semaphores
+   - T-SQL Fundamentals
 
 - ### **Read**
    - Head First Object-Oriented Analysis and Design
    - Operating Systems: Three Easy Pieces  
+   - High Performance MySQL
 
