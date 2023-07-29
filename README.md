@@ -4,6 +4,7 @@ This is a repo that contains some of my favorite articles and books concerning s
 
 ## **Table of Contents**
 - [**Articles**](#articles)
+- [**Papers**](#papers)
 - [**Books**](#books)
     * [Currently Reading](#currently-reading)
     * [To Read](#to-read)
@@ -17,6 +18,10 @@ This is a repo that contains some of my favorite articles and books concerning s
 - [Revolutionizing Money Movements at Scale with Strong Data Consistency](https://eng.uber.com/money-scale-strong-data/)
 - [High-Performance Server Architecture](http://pl.atyp.us/content/tech/servers.html)
 - [Goroutines Under The Hood](https://osmh.dev/posts/goroutines-under-the-hood)
+
+## **Papers**
+- [Scaling Memcache at Facebook]([https://www.freecodecamp.org/news/database-indexing-at-a-glance-bb50809d48bd/](https://www.usenix.org/system/files/conference/nsdi13/nsdi13-final170_update.pdf))
+
 
 ## **Books**
 - ### **Currently Reading**
