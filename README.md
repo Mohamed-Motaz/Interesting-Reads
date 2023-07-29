@@ -20,7 +20,7 @@ This is a repo that contains some of my favorite articles and books concerning s
 - [Goroutines Under The Hood](https://osmh.dev/posts/goroutines-under-the-hood)
 
 ## **Papers**
-- [Scaling Memcache at Facebook]([https://www.freecodecamp.org/news/database-indexing-at-a-glance-bb50809d48bd/](https://www.usenix.org/system/files/conference/nsdi13/nsdi13-final170_update.pdf))
+- [Scaling Memcache at Facebook](https://www.usenix.org/system/files/conference/nsdi13/nsdi13-final170_update.pdf)
 
 
 ## **Books**
